@@ -26,7 +26,7 @@ Dataset for GoodVitamins comes from the Bestselling Vitamin Product pages on iHe
 
 * `iHerb_best_seller_products_scraper`             : self-made python web scraping script using Selenium notebook.
 
-## Special Thanks
+## Note
 
 GoodVitamins project was created as part of my capstone project for my Data Science Diploma at [BrainStation](https://brainstation.io).
 
