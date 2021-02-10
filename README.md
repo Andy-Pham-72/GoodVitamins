@@ -32,4 +32,4 @@ GoodVitamins project was created as part of my capstone project for my Data Scie
 
 The framework of GoodVitamins were inspired by the project [BetterReads](https://github.com/williecostello/BetterReads) by [Willie Costello](https://www.linkedin.com/in/williecostello/). It's such a big help for me to finish the my capstone project.
 
-I would like to thank my educators: [Adam Thorsteinson](https://www.linkedin.com/in/adam-thorsteinson-670a0552/), [Govind Suresh](https://www.linkedin.com/in/govindsuresh/), [Luan](https://www.linkedin.com/in/lnguyen7-nd/), and [Ben Polzin](https://www.linkedin.com/in/bpolzin/). Last but not least, many thanks to my amazing classmates.
+I would like to thank my educators: [Adam Thorsteinson](https://www.linkedin.com/in/adam-thorsteinson-670a0552/), [Govind Suresh](https://www.linkedin.com/in/govindsuresh/), [Luan Nguyen](https://www.linkedin.com/in/lnguyen7-nd/), and [Ben Polzin](https://www.linkedin.com/in/bpolzin/). Last but not least, many thanks to my amazing classmates.
