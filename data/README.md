@@ -1,7 +1,9 @@
+# GoodVitamins Datasets
+
 This is the datasets that I scraped from [iHerb](https://ca.iherb.com/c/Vitamins?sr=2&noi=48&p=1)
 
 
-## Data Schema for `iherb_best_selling_products_raw_dataset` :
+### Data Schema for `iherb_best_selling_products_raw_dataset` :
 
 |    Columns        |  Description                                        |
 |-------------------|-----------------------------------------------------|
@@ -15,7 +17,7 @@ This is the datasets that I scraped from [iHerb](https://ca.iherb.com/c/Vitamins
 |product_helpful    | Numbers of other users rated the review as helpful  |
 |product_not_hepful | Numbers of other users rated the review as unhelpful|
 
-## Data Schema for `iherb_best_selling_products_clean_dataset` :
+### Data Schema for `iherb_best_selling_products_clean_dataset` :
 
 |    Columns        |  Description                                        |
 |-------------------|-----------------------------------------------------|
