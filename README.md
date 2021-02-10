@@ -1,6 +1,15 @@
 # GoodVitamins
 Applying NLP and unsupervised machine learning technique to quickly showing the top representative reviews about vitamin products from iHerb
 
+## Introduction
+Supplements are regulated by the FDA. However, the framework is different from drugs. The FDA does not review dietary supplement products for safety and effectiveness before they are marketed which leads to a question: Are all the supplements effective?
+The good answer is to look at the users' reviews, nevertheless, one popular product can have thousands of reviews which can be time-consuming for the buyer to read through all and there will be lots of repetitive contexts. This is when GoodVitamins algorithm comes in handy, it can process thousands of reviews down to the top representative of review. The process consists of transforming the review contents of each product into 512-dimentional vectors (using the [Universal Sentence Encoder](https://tfhub.dev/google/universal-sentence-encoder/4) from TensorFlow Hub) and locating the different cluter centers on the high-dimensional space (Using [K-means Clustering](https://scikit-learn.org/stable/modules/generated/sklearn.cluster.KMeans.html)) and extracting the review vector which is closest to the cluster center (using the simple inner product calculation).
+
+To learn more:
+ * Watch the walk-through video: [GoodVitamins - Demo presentation](https://www.loom.com/share/3876ddd905264d38b5c3f246bdb43cfd)
+ 
+ * Check the [Notebooks](https://github.com/Andy-Pham-72/GoodVitamins/tree/main/notebooks)
+
 ## Notebooks
 Detailed notebooks of how the algorithm was created and other exploratory analysis within the project.
 
