@@ -1,5 +1,5 @@
 # GoodVitamins
-Applying NLP and unsupervised machine learning technique to quickly showing the top representative reviews about vitamin products from iHerb
+Applying NLP and unsupervised machine learning technique to quickly showing the top representative user reviews of vitamin products from iHerb
 
 ## Introduction
 Supplements are regulated by the FDA. However, the framework is different from drugs. The FDA does not review dietary supplement products for safety and effectiveness before they are marketed which leads to a question: Are all the supplements effective?
