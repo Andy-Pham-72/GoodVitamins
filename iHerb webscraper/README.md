@@ -1,6 +1,6 @@
 # iHerb Webscraper Notebook
 
-A notebook that has python script using Selenium to scrape 600 reivews per vitamin product in the [bestselling vitamin product](https://ca.iherb.com/c/Vitamins?sr=2&noi=48&p=1).
+A notebook that has python script using Selenium to scrape 96 vitamin products information and 600 reviews per product in the [bestselling vitamin product pages](https://ca.iherb.com/c/Vitamins?sr=2&noi=48&p=1).
 
 ## Data Schema
 
@@ -18,4 +18,4 @@ A notebook that has python script using Selenium to scrape 600 reivews per vitam
 
 ## Future Work
 
-This is the first web scraping script I've written so there are still some issues; for example, the script can catch non-vitamin products and run unstably sometimes. I'm trying to optimize the script so it can run smoothly everytimes. Therefore, any contributions are welcome.
+This is the first web scraping script I've written so there are still some issues; for example, the script can catch non-vitamin products and run unstably sometimes. I'm trying to optimize the script so it can run smoothly everytimes. Therefore, any contributions are very welcome.
