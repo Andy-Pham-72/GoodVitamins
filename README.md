@@ -10,7 +10,7 @@ This is when GoodVitamins algorithm comes in handy, it can process thousands of 
 To learn more:
  * Watch the walk-through video: [GoodVitamins - Demo presentation](https://www.loom.com/share/3876ddd905264d38b5c3f246bdb43cfd)
 
- * Check my interactive web app: [GoodVitamins](https://goodvitamins.herokuapp.com)
+ * Check my interactive web app: [GoodVitamins - An Interactive Vitamin Product Review Summarization App From iHerb](https://goodvitamins.herokuapp.com)
  
  * Check the [Notebooks](https://github.com/Andy-Pham-72/GoodVitamins/tree/main/notebooks)
 
