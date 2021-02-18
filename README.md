@@ -7,12 +7,12 @@ The good answer is to look at the users' reviews, nevertheless, one popular prod
 
 This is when GoodVitamins algorithm comes in handy, it can process thousands of reviews down to the top representative of review. The process consists of transforming each review contents into 512-dimentional vectors (using the [Universal Sentence Encoder](https://tfhub.dev/google/universal-sentence-encoder/4) from TensorFlow Hub) and locating the different cluter centers on the high-dimensional space (using [K-means Clustering](https://scikit-learn.org/stable/modules/generated/sklearn.cluster.KMeans.html)) and extracting the review vector which is closest to the cluster center (using the simple inner product calculation).
 
-To learn more:
- * Watch the walk-through video: [GoodVitamins - Demo presentation](https://www.loom.com/share/3876ddd905264d38b5c3f246bdb43cfd)
+To learn more, please check:
+ * The walk-through video: [GoodVitamins - Demo presentation](https://www.loom.com/share/3876ddd905264d38b5c3f246bdb43cfd)
 
- * Check my interactive web app: [GoodVitamins - An Interactive Vitamin Product Review Summarization App From iHerb](https://goodvitamins.herokuapp.com)
+ * Web app: [GoodVitamins - An Interactive Vitamin Product Review Summarization App From iHerb](https://goodvitamins.herokuapp.com)
  
- * Check the [Notebooks](https://github.com/Andy-Pham-72/GoodVitamins/tree/main/notebooks)
+ * The [Notebooks](https://github.com/Andy-Pham-72/GoodVitamins/tree/main/notebooks)
 
 ## Notebooks
 Detailed notebooks of how the algorithm was created and other exploratory analysis within the project.
