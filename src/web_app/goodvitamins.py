@@ -1,7 +1,8 @@
 # Web app packages
 import streamlit as st
-import boto3
 import joblib
+#import boto3
+
 
 # Data science packages
 import numpy as np
@@ -97,7 +98,7 @@ file_dict = {
 @st.cache
 def load_reviews(csv_file, pkl_file):
     '''
-    Load sentences & sentence vectors from goodvitamins S3 bucket
+    Load sentences & sentence vectors
     '''
     # Download pickle file from S3
     #s3_client.download_file('andy-pham72', pkl_file, 'vectors.pkl')
@@ -183,7 +184,7 @@ if product != '':
 
     '---'
 
-    # Create S3 file names
+    # Creates file names
     csv_file = f'model_output/{file_dict[product]}.csv'
     pkl_file = f'model_output/{file_dict[product]}.pkl'
 
