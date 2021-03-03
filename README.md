@@ -17,7 +17,7 @@ To learn more, please check:
 ## Notebooks
 Detailed notebooks of how the algorithm was created and other exploratory analysis within the project.
 
-* `01_Data_cleaning_text_preprocessing_exloration` : Data cleaning process, text preprocessing and EDA process.
+* `01_Data_cleaning_text_preprocessing_exploration` : Data cleaning process, text preprocessing and EDA process.
 * `02_Modelling_for_GoodVitamins`                  : Explains the concept of the project algorithm.
 * `03_Optimizing_the_k-means_Clustering_model`     : Explains the how to optimize the optimal cluster number.
 * `04_Exploring_DBSCAN_with_the_dataset`           : Experiments DBSCAN with the dataset.
