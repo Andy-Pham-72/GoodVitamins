@@ -1,4 +1,7 @@
 # GoodVitamins
+
+ <img src = "https://docs.google.com/uc?export=download&id=1EVfQ5mtNaR19vZ5ZqhAOT8Xn1aIamdLN"   />
+
 Applying NLP and unsupervised machine learning technique to quickly showing the top representative user reviews of vitamin products from iHerb
 
 ## Introduction
