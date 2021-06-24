@@ -1,6 +1,7 @@
 # GoodVitamins
 
- <img src = "https://docs.google.com/uc?export=download&id=1EVfQ5mtNaR19vZ5ZqhAOT8Xn1aIamdLN"   />
+![goodvitamins](https://user-images.githubusercontent.com/70767722/123291518-2dbc2580-d4e0-11eb-98dc-27bdf4e6d1d9.jpeg)
+
 
 Applying NLP and unsupervised machine learning technique to quickly showing the top representative user reviews of vitamin products from iHerb
 
